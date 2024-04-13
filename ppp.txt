@@ -1,1 +1,1 @@
-đây là file ppp thuộc branch pull-conflict kkk
+đây là file ppp thuộc branch pull-conflict
