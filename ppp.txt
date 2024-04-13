@@ -1,2 +1,2 @@
-đây 0 là file ppp.0000
-thuộc branch:  mong sau cho pulgl-conflict mà thôi
+đây là file ppp.
+thuộc branch: pull-conflict
