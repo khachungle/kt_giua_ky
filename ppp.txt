@@ -1,2 +1,2 @@
 đây là file ppp.
-thuộc branch: pull-conflict và alaba
+thuộc branch: pull-conflict và main
